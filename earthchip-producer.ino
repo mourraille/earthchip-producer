@@ -6,11 +6,11 @@
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 
-#define wifi_ssid "It's a trap!"
-#define wifi_password "costaricandelight1821"
+#define wifi_ssid "ssid"
+#define wifi_password "xxxxxxxxxxxx"
 
 #define mqtt_port 1883
-#define mqtt_server "95.179.152.133"
+#define mqtt_server "xx.xx.xx.xx"
 
 #define SECONDS 1000
 #define MINUTES 1000 * 60
